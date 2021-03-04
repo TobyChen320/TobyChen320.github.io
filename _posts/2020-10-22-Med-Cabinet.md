@@ -75,3 +75,5 @@ Our application works great; it is able to return the appropriate strains based 
 </p>  
 
 [Repository Link](https://github.com/TobyChen320/MedCabinet)
+
+[App Link](https://medcabinent.netlify.app/)
