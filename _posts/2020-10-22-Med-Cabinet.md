@@ -69,8 +69,9 @@ I also had trouble pickling and using my model. To ensure that our app is up and
 <h2>Final Result</h2>
 
 Our application works great; it is able to return the appropriate strains based on the user's inputs. The only issue would be the amount of time it would take to generate each list of recommendations. The time isn't absurdly long; we are talking maybe 2-3 seconds per generated list. However, having 2-3 seconds spent everytime you want to run the app is something that is not ideal. I hope to resolve this sometime in the near future.
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/TobyChen320/TobyChen320.github.io/master/img/ROC%20Curve.png">
 </p>  
 
-Dataset Link(https://github.com/Build-Week-Med-Cabinent-4/data-science)
+[Repository Link](https://github.com/TobyChen320/MedCabinet)
