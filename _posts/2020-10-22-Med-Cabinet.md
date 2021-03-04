@@ -2,9 +2,9 @@
 layout: post
 title: Med Cabinent App
 subtitle: Which Strain Is Right For You
-cover-img: /assets/img/tj-dragotta-qFIiJNjqB10-unsplash.jpg
-thumbnail-img: /assets//img/michael_jordan_slam_200.jpg
-share-img: /assets/img/tj-dragotta-qFIiJNjqB10-unsplash.jpg
+cover-img: /assets/img/marijuana-panorama-farm-field-green-65019611.jpg
+thumbnail-img: /assets//img/Med Cabinet.png
+share-img: /assets/img/marijuana-panorama-farm-field-green-65019611.jpg
 tags: [Medication, Cannabis]
 ---
 
