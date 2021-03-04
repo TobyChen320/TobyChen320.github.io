@@ -50,8 +50,6 @@ for x in range(2263):
 
 At the end of the day though we were able to get our app up and running through many trials and tribulation. It was huge bummer for everyone on the team that it took so long for both the Web team and the IOS team to receive the Data Science endpoints. We had all our endpoints created practically within the first week that we were given this project. The issue was the deployment which caused everything to be delayed. Even if we had endpoints from the beginning, it can’t be utilized without having our app deployed. Our app is currently completely functional but it isn’t as pretty as we would like it to be simply because we didn’t have enough time. The IOS also didn’t have time to hook up their application with our endpoints because they received it so late. Everyone had a great time with this project and the experience that I gained from this in regards to working in a cross functional team is something that I will forever cherish.
 
-<p align="center">
  ![Alt Text](https://tenor.com/view/best-team-teamwork-best-team-ever-anchorman-ron-burgundy-gif-11877904)
-</p>  
 
 [Repository Link](https://github.com/TobyChen320/cityspire-b-ds)
