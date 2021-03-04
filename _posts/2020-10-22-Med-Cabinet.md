@@ -11,7 +11,7 @@ tags: [Medication, Cannabis]
 Cannabis has always been interesting to me. Whether it be used recreationally or medically; I believe that the product itself has many benefits.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TobyChen320/TobyChen320.github.io/master/img/michael_jordan_slam_200.jpg">
+  <img src="https://raw.githubusercontent.com/TobyChen320/TobyChen320.github.io/master/assets/img/Creative-Family-iStock-1126519924-696x392.jpg">
 </p>  
 
 <h2>What I'm Trying to Achieve</h2>
@@ -19,7 +19,7 @@ Cannabis has always been interesting to me. Whether it be used recreationally or
 There is an obscene amount of strains out there and each one has different desired effects on people.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TobyChen320/TobyChen320.github.io/master/img/Average%20Net%20Rating.png">
+  <img src="https://raw.githubusercontent.com/TobyChen320/TobyChen320.github.io/master/assets/img/indica-sativa-properties.jpg">
 </p>
 
 So what I wanted to do was create an application that returns the top 5 strains that best fits the user's inputs. The best part about this is that you can configure how many predictions you want. Meaning it can recommend any amount of strains best suited for you based on how many different strains you want.
